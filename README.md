@@ -29,6 +29,17 @@
 
 ---
 
+## 🧰 Ferramentas de trabalho
+
+- 💻 VS Code  
+- 🧠 Git e GitHub  
+- 🌐 Figma (básico)    
+- 📦 NPM  
+- 🌍 Navegadores e DevTools  
+- ☁️ Google Drive e Trello  
+
+---
+
 ## ✨ Hobbies
 
 - 📖 Ler livros  
