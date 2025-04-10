@@ -1,3 +1,4 @@
+👋 Opa! Me chamo Murillo
 🌍 De Mossoró-RN  
 💙 Apaixonado por **tecnologia** e pelo impacto que ela causa na vida das pessoas.
 🧠 Sempre em busca de aprender mais, evoluir e criar projetos que tragam valor real. 
