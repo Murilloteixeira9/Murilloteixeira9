@@ -43,12 +43,16 @@
 
 ## 🧰 Ferramentas de trabalho
 
-- 💻 VS Code  
-- 🧠 Git e GitHub  
-- 🌐 Figma (básico)   
-- 📦 NPM  
-- 🌍 Navegadores e DevTools  
-- ☁️ Google Drive e Trello  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="NPM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+  <img src="https://img.icons8.com/color/48/000000/google-drive--v2.png" width="40" alt="Google Drive" />
+  <img src="https://img.icons8.com/color/48/000000/trello.png" width="40" alt="Trello" />
+</p>
 
 ---
 
