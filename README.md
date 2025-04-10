@@ -15,6 +15,7 @@
 - ⚙️ **JavaScript**  
 - ⚛️ **React**  
 - 🐍 **Python**
+- - 🐧 **Linux**
 
 🎯 Em busca da minha **primeira oportunidade** como **Front End Engineer**
 
