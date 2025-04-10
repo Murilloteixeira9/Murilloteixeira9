@@ -41,7 +41,7 @@
 ## 🌐 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murillo-teixeira-403692229/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Murilloteixeira9)
+
 
 ---
 
