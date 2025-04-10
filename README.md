@@ -60,7 +60,7 @@
 - 📖 Ler livros  
 - 🏋️ Treinar  
 - 🌄 Apreciar a natureza  
-- 🪙 Estudar sobre **criptomoedas**
+- 🪙 Estudar sobre **Criptos**
 
 ---
 
