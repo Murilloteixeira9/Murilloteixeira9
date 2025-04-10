@@ -16,13 +16,15 @@
 - 🐍 **Python**
 
 🎯 Em busca da minha **primeira oportunidade** como **Front End Engineer**
+🧠 Sempre em busca de aprender mais, evoluir e criar projetos que tragam valor real. 
 
 ---
 
 ## 🌱 Sobre minha jornada
 
-🧠 Sempre em busca de aprender mais, evoluir e criar projetos que tragam valor real.  
 💼 Já atuei com **telemarketing**, com foco total em **resolver problemas dos usuários** — o que reforçou ainda mais meu interesse em **criar experiências digitais que facilitem a vida das pessoas**.  
+🖥️ Tenho **experiência com informática**, o que me ajuda a lidar bem com ferramentas, sistemas e suporte técnico.  
+🌐 Também possuo **inglês intermediário**, o que me permite aprender com conteúdos internacionais e colaborar com profissionais de fora.  
 💡 Acredito que a combinação entre **tecnologia, criatividade e dedicação** pode transformar ideias em soluções incríveis.
 
 ---
