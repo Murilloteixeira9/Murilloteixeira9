@@ -6,19 +6,6 @@
 
 🧠 Sempre em busca de aprender mais, evoluir e criar projetos que tragam valor real e experiências digitais de qualidade.
 
-📚Linguagens dominadas:
-
-🧱 HTML5
-
-🎨 CSS3
-
-⚙️ JavaScript
-
-⚛️ React
-
-🟦 TypeScript
-
-
 🎯 Em busca da minha primeira oportunidade como Front End Engineer
 
 🌱 Sobre minha jornada:
