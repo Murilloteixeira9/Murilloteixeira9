@@ -6,10 +6,10 @@
 
 
 
-🌱 Sobre minha jornada:
-💼 Comecei minha carreira em telemarketing, desenvolvendo habilidades em resolução de problemas e foco no usuário, o que despertou meu interesse por tecnologia e experiência digital.
-🖥️ Hoje sou Front-end Engineer, domino React e TypeScript e já desenvolvi projetos de alta qualidade e entreguei resultados reais.
-💡 Acredito que tecnologia, criatividade e dedicação transformam ideias em experiências digitais impactantes.
+💼 Sobre minha jornada:
+ Comecei minha carreira em telemarketing, desenvolvendo habilidades em resolução de problemas e foco no usuário, o que despertou meu interesse por tecnologia e experiência digital.
+ Hoje sou Front-end Engineer, domino React e TypeScript e já desenvolvi projetos de alta qualidade e entreguei resultados reais.
+ Acredito que tecnologia, criatividade e dedicação transformam ideias em experiências digitais impactantes.
 
 
 🚀 Tecnologias:
