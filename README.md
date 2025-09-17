@@ -17,11 +17,11 @@
 
 
 🧰 Ferramentas de trabalho:
-🖥️ VS Code | 🐙 Git | 📦 NPM | 🎨 Figma | 📁 Google Drive | 📋 Trello
+🖥️ VS Code | 🐙 Git | 📦 NPM | 🎨 Figma | 📁 Google Drive | 📋 Trello | ▲ Vercel
 
 
 🗣️ Idiomas:
-🌐 Inglês Intermediário
+🌐 Inglês Intermediário - (leitura e escrita)
 
 
 ✨ Hobbies:
